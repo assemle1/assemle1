@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Assem Talha</h1>
 <h3 align="center">An IT student at 42 network</h3>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/astalha" alt="astalha's 42 stats" /></a>
-- 🌱 I’m currently learning **Cybersecurity , and C programing**
 
+- 🌱 I’m currently learning **Cybersecurity , and C programing**
 - 📫 How to reach me **assim.talha3@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
