@@ -3,7 +3,7 @@
 <p align="center"> <a alt="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/astalha" alt="astalha's 42 stats" /></a></p>
 
 - 🌱 I’m currently learning **Cybersecurity , and C programing**
-- 📫 How to reach me **assim.talha3@gmail.com**
+- 📫 How to reach me **talhaassem@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/assem-talha-6b6749171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/assem-talha-6b6749171/" height="30" width="40" /></a>
